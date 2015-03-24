@@ -1,0 +1,3 @@
+[submodule "depends/bottle"]
+	path = depends/bottle
+	url = https://github.com/bottlepy/bottle
